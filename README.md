@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hi there , I'm konceptz 👋
+
+I'm in **Security** at **@[Checkmarx](Checkmarx.com)** and i love *open source!*
+![stats](https://user-images.githubusercontent.com/58976716/233138769-022c7589-c06d-4760-b691-546b29e30c51.svg)
 
 <!--
 **konceptz/konceptz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
